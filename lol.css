@@ -1,0 +1,15 @@
+body{
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  color: orange;
+  background-image: url("lolbg-default.jpg");
+}
+
+
+
+p{
+  border-width: 10px 10px 10px 10px;
+  border-style: solid;
+  border-color: hotpink;
+  font-family: 'Noto Sans', sans-serif;
+}
