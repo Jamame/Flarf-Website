@@ -1,15 +1,17 @@
 body{
-  font-family: 'Noto Sans', sans-serif;
-  font-size: 20px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 24px;
   color: orange;
   background-image: url("mainbg.jpg");
 }
 
-
-
 p{
-  border-width: 10px 10px 10px 10px;
+  border-width: 8px 8px 8px 8px;
   border-style: solid;
-  border-color: hotpink;
-  font-family: 'Noto Sans', sans-serif;
+  border-color: CadetBlue;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:link {
+  text-decoration: none;
 }

@@ -1,5 +1,5 @@
 body{
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   color: orange;
   background-image: url("bgeft.jpg");
@@ -12,4 +12,8 @@ p{
   border-style: solid;
   border-color: hotpink;
   font-family: 'Noto Sans', sans-serif;
+}
+
+a:link {
+  text-decoration: none;
 }
