@@ -12,3 +12,6 @@ Create a flarf poem based on these rules:
 4) Use that text and those images to create a flarf poem website page. Include a CSS page to style it any way you like. (Check out the "weird webpages" resource list for inspiration, as well as HTML & CSS tutorials.)
 5) Repeat this process at least 3 more times. You should have a website with at least 4 linked pages.
 6) Upload the site to Github, and make it available using github pages.
+
+
+website: https://jamame.github.io/Flarf-Website/
