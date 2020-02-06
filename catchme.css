@@ -1,0 +1,16 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 21px;
+  color: orange;
+  background-image: url("images and gifs/windy.gif");
+}
+
+
+
+p{
+  font-family: 'Noto Sans', sans-serif;
+}
+
+a:link {
+  text-decoration: none;
+}
